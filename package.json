@@ -19,6 +19,7 @@
   "bin": "./cli.js",
   "dependencies": {
     "@iarna/cli": "^2.1.0",
-    "lock-verify": "^2.1.0"
+    "lock-verify": "^2.1.0",
+    "yargs": "^15.0.2"
   }
 }
