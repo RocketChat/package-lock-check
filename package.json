@@ -1,0 +1,23 @@
+{
+  "name": "package-lock-check",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RocketChat/package-lock-check.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RocketChat/package-lock-check/issues"
+  },
+  "homepage": "https://github.com/RocketChat/package-lock-check#readme",
+  "bin": "./cli.js",
+  "dependencies": {
+    "lock-verify": "^2.1.0"
+  }
+}
