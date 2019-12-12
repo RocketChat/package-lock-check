@@ -18,6 +18,7 @@
   "homepage": "https://github.com/RocketChat/package-lock-check#readme",
   "bin": "./cli.js",
   "dependencies": {
+    "@iarna/cli": "^2.1.0",
     "lock-verify": "^2.1.0"
   }
 }
